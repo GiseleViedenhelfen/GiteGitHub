@@ -5,6 +5,5 @@ O que eu vou aprender na Trybe:
 - Git
 - HTML
 - CSS
-soft skills
-GitHub
-habilidade extra
+- soft skills
+- python
