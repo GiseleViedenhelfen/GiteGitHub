@@ -5,5 +5,11 @@ O que eu vou aprender na Trybe:
 - Git
 - HTML
 - CSS
+
 - Python
 - Soft Skills
+=======
+- soft skills
+- python
+Paciência
+
